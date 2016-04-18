@@ -17,7 +17,7 @@
 	<url>https://github.com/joostschouten/newrelic4tapestry5</url>
 
 	<properties>
-		<apache.tapestry.version>5.3.6</apache.tapestry.version>
+		<apache.tapestry.version>5.3.8</apache.tapestry.version>
 		<newrelic.version>3.4.2</newrelic.version>
 	</properties>
 
