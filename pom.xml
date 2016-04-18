@@ -11,7 +11,7 @@
 	<groupId>com.jsportal</groupId>
 	<artifactId>NewRelic4Tapestry5</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1-SNAPSHOT</version>
+	<version>1.0</version>
 
 	<name>NewRelic4Tapestry5</name>
 	<url>https://github.com/joostschouten/newrelic4tapestry5</url>
